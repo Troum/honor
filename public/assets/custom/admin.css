@@ -1,0 +1,12 @@
+[data-show]:hover {
+    cursor: pointer;
+}
+
+.nav-link {
+    color: #000000!important;
+}
+
+.nav-link.active {
+    background-color: #80bdff!important;
+    color: #FFFFFF!important;
+}
